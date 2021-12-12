@@ -1,4 +1,3 @@
-หมายเลขประจำตัวลูกค้า,โกดังแบ่งออกเป็น บล็อก A B C D F,การจัดส่งสินค้า เช่น ทางเรือ บนถนน เครื่องบิน,จำนวนที่ลูกค้าโทรหา Call center,"บริษัทให้คะแนนลูกค้า โดย 1 = แย่สุด, 5 = ดีสุด",ต้นทุนผลิตภัณฑ์ หน่วยเป็น USD,จำนวนการซื้อก่อนหน้า,"ความสำคัญของสินค้า เช่น ต่ำ, กลาง, สูง",เพศ,ส่วนลดในการนำเสนอผลิตภัณฑ์,น้ำหนักหน่วยเป็น กรัม,"การจัดส่งสินค้า 1 = ส่งไม่ตรงเวลา, 0 = ส่งตรงเวลา"
 ID,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender,Discount_offered,Weight_in_gms,Reached.on.Time_Y.N
 1,D,Flight,4,2,177,3,low,F,44,1233,1
 2,F,Flight,4,5,216,2,low,M,59,3088,1
